@@ -17,7 +17,11 @@
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
-		</head>
+	<link rel="icon" href="https://herodroid.com/wp-content/uploads/2019/09/cropped-logo-111-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://herodroid.com/wp-content/uploads/2019/09/cropped-logo-111-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://herodroid.com/wp-content/uploads/2019/09/cropped-logo-111-180x180.png" />
+<meta name="msapplication-TileImage" content="https://herodroid.com/wp-content/uploads/2019/09/cropped-logo-111-270x270.png" />
+	</head>
 	<body class="login login-action-login wp-core-ui  locale-fr-fr">
 		<div id="login">
 		<h1><a href="https://fr.wordpress.org/">Propulsé par WordPress</a></h1>
