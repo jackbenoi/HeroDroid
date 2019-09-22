@@ -1,0 +1,209 @@
+{
+    "docs": [
+        {
+            "location": "/index.html", 
+            "text": "Google Play App Store [CMS]\n\n\nTo check our demo site please visit: \nhttp://googelplayappstore.info\n\n\nAbout Our Product\n\n\n\n\nGoogle Play Store CMS\n is an android market site specifically for Google Play Store. You can add apps / games / themes etc in this CMS based on your needs.\n\n\nYou can get details such as title, images, screenshots etc of a specific apps / games using our admin page.\n\n\n\n\nFeatures\n\n\n\n\nAllow to add your own app / games / themes and can automate to get details if the app was published in google play store.\n\n\nAllow Developer / Users to submit apps.\n\n\nReview Submitted apps / games.\n\n\nAdd or Upload apk file.\n\n\nAdd featured apps.\n\n\nResponsive Design.\n\n\nGoogle Analytics Ready.\n\n\nReport Spam Contents.\n\n\nContact us page.\n\n\nUnlimited Add Pages.\n\n\nAdvertisements Ready\n\n\nAnd many more . . .\n\n\n\n\nTechnology Used\n\n\n\n\nBuilt using Laravel 5.2 Framework\n\n\nCoffeescript\n\n\nAngularJS\n\n\nGulp\n\n\nBootstrap 4\n\n\n\n\nServer Requirements\n\n\n\n\nPHP \n= 5.5.9\n\n\nOpenSSL PHP Extension\n\n\nPDO PHP Extension\n\n\nMbstring PHP Extension\n\n\nTokenizer PHP Extension\n\n\n\n\nChangelog\n\n\n1.6 Version Release\n\n\n\n\nFixed problem with category listing..\n\n\nFixed Sitemap Problem (Not creating multiple sitemap index)\n\n\nFixed Search problem when \u201center\u201d button was click.\n\n\nFixed Google play Bar Number length\n\n\n\n\n1.5.1 Version Release\n\n\n\n\nQuick Fixed Google Api.\n\n\n\n\n1.5 Version Release\n\n\n\n\nQuick Fixed for Google Play Store Scraper new codes.\n\n\nSupport PHP 7.2\n\n\nOther minor fixed.\n\n\nPreparing api for MOBILE APP (plugins)\n\n\n\n\n1.4 Version Release\n\n\n\n\nFixed Mobile Preview Firefox \n\n\nFixed meta description duplicate \n\n\nFixed problem for User Profile in the backend. \n\n\n10 sec waiting page before the download starts \n\n\nAdditional informations   \n\n\nRequired Android\n\n\nInstalls\n\n\nPublished/Updated Date\n\n\n\n\n\n\nApp Ratings\n\n\nApp Ratings Total\n\n\nAdded Custom Inputs, you can add any custom inputs you want. \n\n\n\n\n1.3 Version Release\n\n\n\n\nFixed Seo Title on detail page\n\n\nAdd Rich Snippets for Google Search\n\n\nFixed RSS title and description problem\n\n\nFixed problem in some app that cannot be scrape \n\n\nFixed Https cover image \n\n\nFixed image not loading in firefox\n\n\nAuto Download Apk\n\n\n\n\n1.2 Version Release\n\n\n\n\nTranslation Manager \n\n\nFixed problem for custom link download \n\n\nAllow user activation via email can be turn on/off in settings page \n\n\nForgot/Reset password with e-mail link \n\n\nReplaced Small Screenshots to Full Screenshots Images\n\n\nAdded Ratings Total\n\n\nAdded Published Date\n\n\nAdded Custom CSS/JS configuration\n\n\nRelated apps in detail page\n\n\nAdd the star rating images in frontend\n\n\nIf no download available, redirect to google play store\n\n\nFixed tag author title from link\n\n\nFixed app detail category link\n\n\nFixed RSS and validate using https://validator.w3.org/feed\n\n\nAdded google reCAPTCHA for login and registration\n\n\n\n\n1.1 Version Release\n\n\n\n\nAuto Search Function\n\n\nSocial Share Problem\n\n\nUpload Logo\n\n\n\n\nAdditional Informations\n\n\n\n\nReviews\n\n\nHistogram\n\n\nRatings Score\n\n\nRequired Android\n\n\nNo. of installs\n\n\n\n\n\n\n\n\nCategory Icons (using fontawesome)\n\n\n\n\nDownload Link Redirection Timer\n\n\nUser Management\n\n\n\n\nSocial Logins\n\n\n\n\nFacebook\n\n\nTwitter\n\n\nGoogle+\n\n\n\n\n\n\n\n\nFixed Submit apps frontend\n\n\n\n\nRTL Support\n\n\nSitemap\n\n\nRSS Feeds\n\n\nUser Management\n\n\n\n\n1.0 - Initial Release", 
+            "title": "Introduction"
+        }, 
+        {
+            "location": "/index.html#google-play-app-store-cms", 
+            "text": "To check our demo site please visit:  http://googelplayappstore.info", 
+            "title": "Google Play App Store [CMS]"
+        }, 
+        {
+            "location": "/index.html#about-our-product", 
+            "text": "Google Play Store CMS  is an android market site specifically for Google Play Store. You can add apps / games / themes etc in this CMS based on your needs.  You can get details such as title, images, screenshots etc of a specific apps / games using our admin page.", 
+            "title": "About Our Product"
+        }, 
+        {
+            "location": "/index.html#features", 
+            "text": "Allow to add your own app / games / themes and can automate to get details if the app was published in google play store.  Allow Developer / Users to submit apps.  Review Submitted apps / games.  Add or Upload apk file.  Add featured apps.  Responsive Design.  Google Analytics Ready.  Report Spam Contents.  Contact us page.  Unlimited Add Pages.  Advertisements Ready  And many more . . .", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/index.html#technology-used", 
+            "text": "Built using Laravel 5.2 Framework  Coffeescript  AngularJS  Gulp  Bootstrap 4", 
+            "title": "Technology Used"
+        }, 
+        {
+            "location": "/index.html#server-requirements", 
+            "text": "PHP  = 5.5.9  OpenSSL PHP Extension  PDO PHP Extension  Mbstring PHP Extension  Tokenizer PHP Extension", 
+            "title": "Server Requirements"
+        }, 
+        {
+            "location": "/index.html#changelog", 
+            "text": "1.6 Version Release   Fixed problem with category listing..  Fixed Sitemap Problem (Not creating multiple sitemap index)  Fixed Search problem when \u201center\u201d button was click.  Fixed Google play Bar Number length   1.5.1 Version Release   Quick Fixed Google Api.   1.5 Version Release   Quick Fixed for Google Play Store Scraper new codes.  Support PHP 7.2  Other minor fixed.  Preparing api for MOBILE APP (plugins)   1.4 Version Release   Fixed Mobile Preview Firefox   Fixed meta description duplicate   Fixed problem for User Profile in the backend.   10 sec waiting page before the download starts   Additional informations     Required Android  Installs  Published/Updated Date    App Ratings  App Ratings Total  Added Custom Inputs, you can add any custom inputs you want.    1.3 Version Release   Fixed Seo Title on detail page  Add Rich Snippets for Google Search  Fixed RSS title and description problem  Fixed problem in some app that cannot be scrape   Fixed Https cover image   Fixed image not loading in firefox  Auto Download Apk   1.2 Version Release   Translation Manager   Fixed problem for custom link download   Allow user activation via email can be turn on/off in settings page   Forgot/Reset password with e-mail link   Replaced Small Screenshots to Full Screenshots Images  Added Ratings Total  Added Published Date  Added Custom CSS/JS configuration  Related apps in detail page  Add the star rating images in frontend  If no download available, redirect to google play store  Fixed tag author title from link  Fixed app detail category link  Fixed RSS and validate using https://validator.w3.org/feed  Added google reCAPTCHA for login and registration   1.1 Version Release   Auto Search Function  Social Share Problem  Upload Logo   Additional Informations   Reviews  Histogram  Ratings Score  Required Android  No. of installs     Category Icons (using fontawesome)   Download Link Redirection Timer  User Management   Social Logins   Facebook  Twitter  Google+     Fixed Submit apps frontend   RTL Support  Sitemap  RSS Feeds  User Management   1.0 - Initial Release", 
+            "title": "Changelog"
+        }, 
+        {
+            "location": "/installation/index.html", 
+            "text": "Google Play App Store [CMS]\n\n\nThis page will guide you in the installation of our script. Please check all the requirements and purchase the script on codecanyon only.\n\n\nConfiguration and Uploading Files\n\n\n\n\n\n\nPlease check your server requirements again.\n\n\nServer Requirements\n\n\n\n\nPHP \n= 5.5.9\n\n\nOpenSSL PHP Extension\n\n\nPDO PHP Extension\n\n\nMbstring PHP Extension\n\n\nTokenizer PHP Extension\n\n\n\n\n\n\n\n\nUnzip GooglePlayAppStore[CMS] Script after downloading it from \ncodecanyon\n.\n\n\nAfter unzipping our script you will find, documentation folders and GooglePlayStoreApp[CMS] folder. Open up GooglePlayStoreApp[CMS] folder and edit .local.env file for your configuration. Please see the image below.\n\n\n\n\nOnce you open up \n.local.env\n file, with your favorite text editor. please make sure to edit the lines of codes that was highlighted in the image, to used fully the funcitonality of the script.\n\n\n\nThis are the basic thing that you need to edit.\n\n\nWebsite Link\n\n\n\n\nAPP_URL\n\n\n\n\n*\nDatabase Configurations\n\n\n\n\nDB_DATABASE\n\n\nDB_USERNAME\n\n\nDB_PASSWORD\n\n\n\n\nMail Settings\n\n\n\n\nMAIL_DRIVER\n\n\nMAIL_HOST\n\n\nMAIL_PORT\n\n\nMAIL_USERNAME\n\n\nMAIL_PASSWORD\n\n\nMAIL_ENCRYPTION\n\n\n\n\n\n\n\n\nImporting SQL Database\n\n\n\n\nAfter editing .local.env file, go to your phpmyadmin if you have one, and import this sql that will create the necessary table for your new script.\n\n\nYou will find this folder after unzipping the script. the folder name: \nSQL/googleplayappsdb.sql\n. \n\n\n\n\nPlease check the image below.\n\n\n\n\n\n\n\n\nStorage Folder\n\n\n\n\nMake sure storage folder is writtable so you will not have problem in the installation of our script.\n\n\n\n\nIf you have access to your ssh server, then do this. \n\n\n\n\nLogin in your server ssh terminal and go to your google play app store script.\n\n\nIn your terminal, run this code..\n        \nchmod -R 777 storage\n\n\nIt will run recursively and make all the folder inside becomes writable.\n\n\n\n\n\n\n\n\nIf you cant access your terminal command you can used your filezilla ftp or cpanel to change the permission of the storage folder.\n\n\n\n\n\n\n\n\nSocial Login\n\n\nFacebook\n\n\n\n\nCreate Facebook App\n\n\nFirst, visit this link, \nDevelopers Facebook\n,\n\n\nAfter login, click the create app button and a new modal will popup.\n\n\n\nFill up all the details, and click Create App ID. After that you will be redirected to the main dashboard. See image below.\n\n\nNote your App ID and App Secret.\n\n\n\nThen go to, Settings,  and fill up App Domains and create new platform for your website.\n\n\n\nAfter clicking the + Add Platform choose the Website.\n\n\n\n\n\nOnce your done, hit the button \"Save Changes\".\n\n\n\n\n\n\n\nGet your App ID and App Secret and paste it in our \nconfig/oauth-5-laravel.php\n\n\n\n\n\n\n\n\nGoogle+\n\n\n\n\nVisit this link, \nconsole developers google\n, then login your gmail account or create new one.\n\n\nClick the create new app, and then fill up the details and click the create button.\n\n\n\nGo to library menu in the sidebar, and click Google+ API, see the image below.\n\n\n\nThen click the enable button.\n\n\n\nClick credentials menu in the sidebar and select the tab, OAuth Consent Screen and put your Product Name.\n\n\n\nThen, in the first tab Credentials, select the OuAth Client ID. see the image below.\n\n\n\nFill up all the necessary details for your callback.. please see the instruction inside the image..\n\n\n\n\n\nOnce you're done you can get already your client id and client secret.\n\n\n\n\n\n\nGet your client id and client secret and paste it in our \nconfig/oauth-5-laravel.php\n\n\n\n\n\n\n\n\nTwitter\n\n\n\n\nFirst thing to do, visit \ntwitter app\n for developers create twitter account or login your existing account.\n\n\nOnce you login, click the create new app button. and you will be redirected to the creation page.. see image below.\n\n\n\nFill up all the necessary details, the click the Create your Twitter Application button.\n\n\nGet your Consumer Key and Consumer Secret\n\n\n\n\n\nReCaptcha Code\n\n\n\n\nFirst visit Google reCaptcha site \nhttps://www.google.com/recaptcha/intro/android.html\n click \"Get Recaptcha\" button at the top right.\n\n\n\n\nIt will redirect you to login using your gmail account, after logging in, you can start generating your site key and secret key.\n\n\n\n\n\n\n\nAfter clicking the register button, it will redirect you to the next page with the generated site and secret key, copy that and save it in the admin general settings page.\n\n\n\n\n\n\n\nFinal Step\n\n\n\n\nAfter editing all the necessary files, you can start browsing your new google play store app cms script.\n\n\nTry to navigating it in your browser and everything will work nicely.\n\n\n\n\nHave Problems?\n\n\n\n\n\n\nIf you experience problem installing our script please contact us using our profile in codecanyon.\n\n\nat codecanyon -ianthonypillos", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/installation/index.html#google-play-app-store-cms", 
+            "text": "This page will guide you in the installation of our script. Please check all the requirements and purchase the script on codecanyon only.", 
+            "title": "Google Play App Store [CMS]"
+        }, 
+        {
+            "location": "/installation/index.html#configuration-and-uploading-files", 
+            "text": "Please check your server requirements again.", 
+            "title": "Configuration and Uploading Files"
+        }, 
+        {
+            "location": "/installation/index.html#server-requirements", 
+            "text": "PHP  = 5.5.9  OpenSSL PHP Extension  PDO PHP Extension  Mbstring PHP Extension  Tokenizer PHP Extension     Unzip GooglePlayAppStore[CMS] Script after downloading it from  codecanyon .  After unzipping our script you will find, documentation folders and GooglePlayStoreApp[CMS] folder. Open up GooglePlayStoreApp[CMS] folder and edit .local.env file for your configuration. Please see the image below.   Once you open up  .local.env  file, with your favorite text editor. please make sure to edit the lines of codes that was highlighted in the image, to used fully the funcitonality of the script.  This are the basic thing that you need to edit.  Website Link   APP_URL   * Database Configurations   DB_DATABASE  DB_USERNAME  DB_PASSWORD   Mail Settings   MAIL_DRIVER  MAIL_HOST  MAIL_PORT  MAIL_USERNAME  MAIL_PASSWORD  MAIL_ENCRYPTION", 
+            "title": "Server Requirements"
+        }, 
+        {
+            "location": "/installation/index.html#importing-sql-database", 
+            "text": "After editing .local.env file, go to your phpmyadmin if you have one, and import this sql that will create the necessary table for your new script.  You will find this folder after unzipping the script. the folder name:  SQL/googleplayappsdb.sql .    Please check the image below.", 
+            "title": "Importing SQL Database"
+        }, 
+        {
+            "location": "/installation/index.html#storage-folder", 
+            "text": "Make sure storage folder is writtable so you will not have problem in the installation of our script.   If you have access to your ssh server, then do this.    Login in your server ssh terminal and go to your google play app store script.  In your terminal, run this code..\n         chmod -R 777 storage  It will run recursively and make all the folder inside becomes writable.     If you cant access your terminal command you can used your filezilla ftp or cpanel to change the permission of the storage folder.", 
+            "title": "Storage Folder"
+        }, 
+        {
+            "location": "/installation/index.html#social-login", 
+            "text": "", 
+            "title": "Social Login"
+        }, 
+        {
+            "location": "/installation/index.html#facebook", 
+            "text": "Create Facebook App  First, visit this link,  Developers Facebook ,  After login, click the create app button and a new modal will popup.  Fill up all the details, and click Create App ID. After that you will be redirected to the main dashboard. See image below.  Note your App ID and App Secret.  Then go to, Settings,  and fill up App Domains and create new platform for your website.  After clicking the + Add Platform choose the Website.   Once your done, hit the button \"Save Changes\".    Get your App ID and App Secret and paste it in our  config/oauth-5-laravel.php", 
+            "title": "Facebook"
+        }, 
+        {
+            "location": "/installation/index.html#google", 
+            "text": "Visit this link,  console developers google , then login your gmail account or create new one.  Click the create new app, and then fill up the details and click the create button.  Go to library menu in the sidebar, and click Google+ API, see the image below.  Then click the enable button.  Click credentials menu in the sidebar and select the tab, OAuth Consent Screen and put your Product Name.  Then, in the first tab Credentials, select the OuAth Client ID. see the image below.  Fill up all the necessary details for your callback.. please see the instruction inside the image..   Once you're done you can get already your client id and client secret.    Get your client id and client secret and paste it in our  config/oauth-5-laravel.php", 
+            "title": "Google+"
+        }, 
+        {
+            "location": "/installation/index.html#twitter", 
+            "text": "First thing to do, visit  twitter app  for developers create twitter account or login your existing account.  Once you login, click the create new app button. and you will be redirected to the creation page.. see image below.  Fill up all the necessary details, the click the Create your Twitter Application button.  Get your Consumer Key and Consumer Secret", 
+            "title": "Twitter"
+        }, 
+        {
+            "location": "/installation/index.html#recaptcha-code", 
+            "text": "First visit Google reCaptcha site  https://www.google.com/recaptcha/intro/android.html  click \"Get Recaptcha\" button at the top right.   It will redirect you to login using your gmail account, after logging in, you can start generating your site key and secret key.    After clicking the register button, it will redirect you to the next page with the generated site and secret key, copy that and save it in the admin general settings page.", 
+            "title": "ReCaptcha Code"
+        }, 
+        {
+            "location": "/installation/index.html#final-step", 
+            "text": "After editing all the necessary files, you can start browsing your new google play store app cms script.  Try to navigating it in your browser and everything will work nicely.", 
+            "title": "Final Step"
+        }, 
+        {
+            "location": "/installation/index.html#have-problems", 
+            "text": "If you experience problem installing our script please contact us using our profile in codecanyon.  at codecanyon -ianthonypillos", 
+            "title": "Have Problems?"
+        }, 
+        {
+            "location": "/update/index.html", 
+            "text": "Google Play App Store [CMS]\n\n\nThis page will guide you on how you can update your existing code to new version.\n\n\n1.6 Updates Instructions\n\n\n(Note: you will only apply this update if you have 1.6 version installed already, if fresh installed disregard this instruction)\n\n\n\n\nOpen the \nUpdates/1.6/\n folder and upload everything in your server.\n\n\nAnd thats it.\n\n\nLet me know if you encounter any problem.", 
+            "title": "Update Instructions"
+        }, 
+        {
+            "location": "/update/index.html#google-play-app-store-cms", 
+            "text": "This page will guide you on how you can update your existing code to new version.", 
+            "title": "Google Play App Store [CMS]"
+        }, 
+        {
+            "location": "/update/index.html#16-updates-instructions", 
+            "text": "(Note: you will only apply this update if you have 1.6 version installed already, if fresh installed disregard this instruction)   Open the  Updates/1.6/  folder and upload everything in your server.  And thats it.  Let me know if you encounter any problem.", 
+            "title": "1.6 Updates Instructions"
+        }, 
+        {
+            "location": "/screenshots/index.html", 
+            "text": "Google Play App Store [CMS]\n\n\nScreenshots of our frontend and backend page.\n\n\nFrontend Page\n\n\nHomepage\n\n\nLists all apps / games /themes\n\n\n\nCategory Details\n\n\nLists of all categories\n\n\n\nApp detail page\n\n\nThis page will show all app details information such as screenshots, download options for apk and comments sections and more.\n\n\n\n\nLogin Page\n\n\nLogin page for users/developers\n\n\n\n\nSubmit Your App Page\n\n\nUsers can submit their own app here and the admin will review it.\n\n\n\nReport Content Spam and Abuse\n\n\nLists of all categories\n\n\n\n\n\nBackend Page\n\n\nReport Content Spam and Abuse\n\n\nAdmin Home Page Screen\n\n\n\nAdd/Remove Apps/ Games\n\n\nApps listing page\n\n\n\nUpdate Apps Information Details\n\n\nUpdate Apps Information\n\n\n\nFeatured Apps Selections\n\n\nSelect your featured apps that will show in editors pick page.\n\n\n\nAdd your advertisement details\n\n\nCreate unlimited ads code and place it in any page you want using the block code that you specify.", 
+            "title": "Screenshots"
+        }, 
+        {
+            "location": "/screenshots/index.html#google-play-app-store-cms", 
+            "text": "Screenshots of our frontend and backend page.", 
+            "title": "Google Play App Store [CMS]"
+        }, 
+        {
+            "location": "/screenshots/index.html#frontend-page", 
+            "text": "", 
+            "title": "Frontend Page"
+        }, 
+        {
+            "location": "/screenshots/index.html#homepage", 
+            "text": "Lists all apps / games /themes", 
+            "title": "Homepage"
+        }, 
+        {
+            "location": "/screenshots/index.html#category-details", 
+            "text": "Lists of all categories", 
+            "title": "Category Details"
+        }, 
+        {
+            "location": "/screenshots/index.html#app-detail-page", 
+            "text": "This page will show all app details information such as screenshots, download options for apk and comments sections and more.", 
+            "title": "App detail page"
+        }, 
+        {
+            "location": "/screenshots/index.html#login-page", 
+            "text": "Login page for users/developers", 
+            "title": "Login Page"
+        }, 
+        {
+            "location": "/screenshots/index.html#submit-your-app-page", 
+            "text": "Users can submit their own app here and the admin will review it.", 
+            "title": "Submit Your App Page"
+        }, 
+        {
+            "location": "/screenshots/index.html#report-content-spam-and-abuse", 
+            "text": "Lists of all categories", 
+            "title": "Report Content Spam and Abuse"
+        }, 
+        {
+            "location": "/screenshots/index.html#backend-page", 
+            "text": "", 
+            "title": "Backend Page"
+        }, 
+        {
+            "location": "/screenshots/index.html#report-content-spam-and-abuse_1", 
+            "text": "Admin Home Page Screen", 
+            "title": "Report Content Spam and Abuse"
+        }, 
+        {
+            "location": "/screenshots/index.html#addremove-apps-games", 
+            "text": "Apps listing page", 
+            "title": "Add/Remove Apps/ Games"
+        }, 
+        {
+            "location": "/screenshots/index.html#update-apps-information-details", 
+            "text": "Update Apps Information", 
+            "title": "Update Apps Information Details"
+        }, 
+        {
+            "location": "/screenshots/index.html#featured-apps-selections", 
+            "text": "Select your featured apps that will show in editors pick page.", 
+            "title": "Featured Apps Selections"
+        }, 
+        {
+            "location": "/screenshots/index.html#add-your-advertisement-details", 
+            "text": "Create unlimited ads code and place it in any page you want using the block code that you specify.", 
+            "title": "Add your advertisement details"
+        }, 
+        {
+            "location": "/script/index.html", 
+            "text": "Looking for our other products?\n\n\nCheckout our lists of products.\n\n\n\n\n\n\nAppMarket - Google Play Store  \n\n\n \n\n\n\n\n\n\niYOOTOOB - YOUTUBE API AUTOMATION\n    \n \n\n\n\n\n\n\niYOOTOOB - PREMIUM YOUTUBE CMS\n    \n \n\n\n\n\n\n\nEPCV - Envato Purchase Code Verifier\n    \n \n\n\n\n\n\n\nInspiraQuotes CMS - Inspirational Quotes Everyday\n    \n \n\n\n\n\n\n\nILoveMangaOverload CMS - Enjoy your Manga", 
+            "title": "Other Products"
+        }, 
+        {
+            "location": "/script/index.html#looking-for-our-other-products", 
+            "text": "", 
+            "title": "Looking for our other products?"
+        }, 
+        {
+            "location": "/script/index.html#checkout-our-lists-of-products", 
+            "text": "AppMarket - Google Play Store         iYOOTOOB - YOUTUBE API AUTOMATION\n          iYOOTOOB - PREMIUM YOUTUBE CMS\n          EPCV - Envato Purchase Code Verifier\n          InspiraQuotes CMS - Inspirational Quotes Everyday\n          ILoveMangaOverload CMS - Enjoy your Manga", 
+            "title": "Checkout our lists of products."
+        }
+    ]
+}

@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <meta name="author" content="Anthony Pillos">
+        <link rel="canonical" href="http://googelplayappstore.info/installation/index.html">
+        <link rel="shortcut icon" href="../img/favicon.ico">
+        <title>Installation - Google Play App Store [CMS]</title>
+        <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../css/font-awesome-4.5.0.css" rel="stylesheet">
+        <link href="../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="../css/highlight.css">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+	
+	<script src="../js/jquery-1.10.2.min.js"></script>
+        <script src="../js/bootstrap-3.0.3.min.js"></script>
+        <script src="../js/highlight.pack.js"></script> 
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+
+        <!-- Collapsed navigation -->
+        <div class="navbar-header">
+            <!-- Expander button -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="../index.html">Google Play App Store [CMS]</a>
+        </div>
+
+        <!-- Expanded navigation -->
+        <div class="navbar-collapse collapse">
+                <!-- Main navigation -->
+                <ul class="nav navbar-nav">
+                    <li >
+                        <a href="../index.html">Introduction</a>
+                    </li>
+                    <li class="active">
+                        <a href="index.html">Installation</a>
+                    </li>
+                    <li >
+                        <a href="../update/index.html">Update Instructions</a>
+                    </li>
+                    <li >
+                        <a href="../screenshots/index.html">Screenshots</a>
+                    </li>
+                    <li >
+                        <a href="../script/index.html">Other Products</a>
+                    </li>
+                </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                        <i class="fa fa-search"></i> Search
+                    </a>
+                </li>
+                    <li >
+                        <a rel="next" href="../index.html">
+                            <i class="fa fa-arrow-left"></i> Previous
+                        </a>
+                    </li>
+                    <li >
+                        <a rel="prev" href="../update/index.html">
+                            Next <i class="fa fa-arrow-right"></i>
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+        <div class="container">
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#google-play-app-store-cms">Google Play App Store [CMS]</a></li>
+            <li><a href="#configuration-and-uploading-files">Configuration and Uploading Files</a></li>
+            <li><a href="#importing-sql-database">Importing SQL Database</a></li>
+            <li><a href="#storage-folder">Storage Folder</a></li>
+            <li><a href="#social-login">Social Login</a></li>
+            <li><a href="#facebook">Facebook</a></li>
+            <li><a href="#google">Google+</a></li>
+            <li><a href="#twitter">Twitter</a></li>
+            <li><a href="#recaptcha-code">ReCaptcha Code</a></li>
+            <li><a href="#final-step">Final Step</a></li>
+            <li><a href="#have-problems">Have Problems?</a></li>
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
+
+<h1 id="google-play-app-store-cms">Google Play App Store [CMS]</h1>
+<p>This page will guide you in the installation of our script. Please check all the requirements and purchase the script on codecanyon only.</p>
+<h3 id="configuration-and-uploading-files">Configuration and Uploading Files</h3>
+<ol>
+<li>
+<p>Please check your server requirements again.</p>
+<h5 id="server-requirements"><strong>Server Requirements</strong></h5>
+<ul>
+<li>PHP &gt;= 5.5.9</li>
+<li>OpenSSL PHP Extension</li>
+<li>PDO PHP Extension</li>
+<li>Mbstring PHP Extension</li>
+<li>Tokenizer PHP Extension</li>
+</ul>
+</li>
+<li>
+<p>Unzip GooglePlayAppStore[CMS] Script after downloading it from <strong>codecanyon</strong>.</p>
+<p>After unzipping our script you will find, documentation folders and GooglePlayStoreApp[CMS] folder. Open up GooglePlayStoreApp[CMS] folder and edit .local.env file for your configuration. Please see the image below.</p>
+<p><img alt="" src="../img/installation/1.png" /></p>
+<p>Once you open up <strong>.local.env</strong> file, with your favorite text editor. please make sure to edit the lines of codes that was highlighted in the image, to used fully the funcitonality of the script.
+<img alt="" src="../img/installation/2.png" /></p>
+<p>This are the basic thing that you need to edit.</p>
+<p><strong>Website Link</strong></p>
+<ul>
+<li>APP_URL</li>
+</ul>
+<p>*<em>Database Configurations</em></p>
+<ul>
+<li>DB_DATABASE</li>
+<li>DB_USERNAME</li>
+<li>DB_PASSWORD</li>
+</ul>
+<p><strong>Mail Settings</strong></p>
+<ul>
+<li>MAIL_DRIVER</li>
+<li>MAIL_HOST</li>
+<li>MAIL_PORT</li>
+<li>MAIL_USERNAME</li>
+<li>MAIL_PASSWORD</li>
+<li>MAIL_ENCRYPTION</li>
+</ul>
+</li>
+</ol>
+<h3 id="importing-sql-database">Importing SQL Database</h3>
+<ol>
+<li>After editing .local.env file, go to your phpmyadmin if you have one, and import this sql that will create the necessary table for your new script.</li>
+<li>You will find this folder after unzipping the script. the folder name: <strong>SQL/googleplayappsdb.sql</strong>. </li>
+<li>
+<p>Please check the image below.</p>
+<p><img alt="" src="../img/installation/3.png" /></p>
+</li>
+</ol>
+<h3 id="storage-folder">Storage Folder</h3>
+<ol>
+<li>Make sure storage folder is writtable so you will not have problem in the installation of our script.</li>
+<li>
+<p>If you have access to your ssh server, then do this. </p>
+<ul>
+<li>Login in your server ssh terminal and go to your google play app store script.</li>
+<li>In your terminal, run this code..
+        <strong><code>chmod -R 777 storage</code></strong></li>
+<li>It will run recursively and make all the folder inside becomes writable.</li>
+</ul>
+</li>
+<li>
+<p>If you cant access your terminal command you can used your filezilla ftp or cpanel to change the permission of the storage folder.</p>
+<p><img alt="" src="../img/installation/4.png" /></p>
+</li>
+</ol>
+<h3 id="social-login">Social Login</h3>
+<h3 id="facebook">Facebook</h3>
+<ol>
+<li>Create Facebook App</li>
+<li>First, visit this link, <a href="https://developers.facebook.com/docs/apps/register#step-by-step-guide">Developers Facebook</a>,</li>
+<li>After login, click the create app button and a new modal will popup.
+<img alt="" src="../img/installation/socials/facebook/1.png" /></li>
+<li>Fill up all the details, and click Create App ID. After that you will be redirected to the main dashboard. See image below.</li>
+<li>Note your App ID and App Secret.
+<img alt="" src="../img/installation/socials/facebook/2.png" /></li>
+<li>Then go to, Settings,  and fill up App Domains and create new platform for your website.
+<img alt="" src="../img/installation/socials/facebook/3.png" /></li>
+<li>After clicking the + Add Platform choose the Website.
+<img alt="" src="../img/installation/socials/facebook/4.png" /></li>
+<li>
+<p>Once your done, hit the button "Save Changes".
+<img alt="" src="../img/installation/socials/facebook/5.png" /></p>
+</li>
+<li>
+<p>Get your App ID and App Secret and paste it in our <strong>config/oauth-5-laravel.php</strong>
+<img alt="" src="../img/installation/socials/facebook/6.png" /></p>
+</li>
+</ol>
+<h3 id="google">Google+</h3>
+<ol>
+<li>Visit this link, <a href="https://console.developers.google.com/">console developers google</a>, then login your gmail account or create new one.</li>
+<li>Click the create new app, and then fill up the details and click the create button.
+<img alt="" src="../img/installation/socials/google/1.png" /></li>
+<li>Go to library menu in the sidebar, and click Google+ API, see the image below.
+<img alt="" src="../img/installation/socials/google/2.png" /></li>
+<li>Then click the enable button.
+<img alt="" src="../img/installation/socials/google/3.png" /></li>
+<li>Click credentials menu in the sidebar and select the tab, OAuth Consent Screen and put your Product Name.
+<img alt="" src="../img/installation/socials/google/4.png" /></li>
+<li>Then, in the first tab Credentials, select the OuAth Client ID. see the image below.
+<img alt="" src="../img/installation/socials/google/5.png" /></li>
+<li>Fill up all the necessary details for your callback.. please see the instruction inside the image..
+<img alt="" src="../img/installation/socials/google/6.png" /></li>
+<li>
+<p>Once you're done you can get already your client id and client secret.</p>
+</li>
+<li>
+<p>Get your client id and client secret and paste it in our <strong>config/oauth-5-laravel.php</strong>
+<img alt="" src="../img/installation/socials/google/7.png" /></p>
+</li>
+</ol>
+<h3 id="twitter">Twitter</h3>
+<ol>
+<li>First thing to do, visit <a href="https://apps.twitter.com/">twitter app</a> for developers create twitter account or login your existing account.</li>
+<li>Once you login, click the create new app button. and you will be redirected to the creation page.. see image below.
+<img alt="" src="../img/installation/socials/twitter/1.png" /></li>
+<li>Fill up all the necessary details, the click the Create your Twitter Application button.</li>
+<li>Get your Consumer Key and Consumer Secret
+<img alt="" src="../img/installation/socials/twitter/2.png" /></li>
+</ol>
+<h3 id="recaptcha-code">ReCaptcha Code</h3>
+<ol>
+<li>First visit Google reCaptcha site <a href="https://www.google.com/recaptcha/intro/android.html">https://www.google.com/recaptcha/intro/android.html</a> click "Get Recaptcha" button at the top right.</li>
+<li>
+<p>It will redirect you to login using your gmail account, after logging in, you can start generating your site key and secret key.
+<img alt="" src="../img/installation/recaptcha/1.png" /></p>
+</li>
+<li>
+<p>After clicking the register button, it will redirect you to the next page with the generated site and secret key, copy that and save it in the admin general settings page.
+<img alt="" src="../img/installation/recaptcha/2.png" /></p>
+</li>
+</ol>
+<h3 id="final-step">Final Step</h3>
+<ol>
+<li>After editing all the necessary files, you can start browsing your new google play store app cms script.</li>
+<li>Try to navigating it in your browser and everything will work nicely.</li>
+</ol>
+<h3 id="have-problems">Have Problems?</h3>
+<ol>
+<li>
+<p>If you experience problem installing our script please contact us using our profile in codecanyon.</p>
+<p><a href="https://codecanyon.net/user/ianthonypillos">at codecanyon -ianthonypillos </a></p>
+</li>
+</ol></div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+                <p>2017 Project by DCM (Anthony Pillos)</p>
+            <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>var base_url = '..';</script>
+        <script data-main="../mkdocs/js/search.js" src="../mkdocs/js/require.js"></script>
+        <script src="../js/base.js"></script><div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form role="form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
