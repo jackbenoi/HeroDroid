@@ -12,7 +12,7 @@
 	<atom:link href="https://herodroid.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://herodroid.com</link>
 	<description>Un site utilisant WordPress</description>
-	<lastBuildDate>Sat, 21 Sep 2019 16:55:07 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 22 Sep 2019 14:50:26 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>How To</title>
+		<link>https://herodroid.com/2019/09/22/how-to/</link>
+				<comments>https://herodroid.com/2019/09/22/how-to/#respond</comments>
+				<pubDate>Sun, 22 Sep 2019 14:50:26 +0000</pubDate>
+		<dc:creator><![CDATA[herodroid]]></dc:creator>
+				<category><![CDATA[Non classé]]></category>
+
+		<guid isPermaLink="false">https://herodroid.com/?p=32</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+							<wfw:commentRss>https://herodroid.com/2019/09/22/how-to/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
 		<title>Bonjour tout le monde !</title>
 		<link>https://herodroid.com/2019/09/21/bonjour-tout-le-monde/</link>
 				<comments>https://herodroid.com/2019/09/21/bonjour-tout-le-monde/#comments</comments>

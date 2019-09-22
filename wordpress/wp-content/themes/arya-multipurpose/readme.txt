@@ -1,6 +1,6 @@
 === Arya Multipurpose ===
 
-Contributors: everestthemes
+Contributors: herodroid
 Requires PHP: 5.6
 Requires at least: 4.8.0
 Tested up to: 5.2.2
